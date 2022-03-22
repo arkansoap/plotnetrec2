@@ -7,6 +7,12 @@ Econometric visualization package
 
 install_github("arkansoap/plotnetrec2")
 
-## Compiler pdf de documentation
+## Doc
+
+### Mettre à jour la doc 
 
 devtools::document()
+
+### Compiler pdf de documentation
+
+devtools::build_manual()
