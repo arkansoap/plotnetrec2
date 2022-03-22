@@ -3,6 +3,7 @@
 export(OlsDiag)
 export(calcul_ind)
 export(covRect)
+export(covRect_resample)
 export(graph_cor)
 import(ggforce)
 import(ggplot2)
